@@ -2,7 +2,7 @@
 
 An image goes in and a short written description comes out. A Vision Transformer fine-tuned on six scene classes identifies what the image shows, and a small language model writes a few sentences about that class. Two guardrails stop the language model from describing something the classifier isn't sure about, or from rambling and repeating itself.
 
-Built as a project for INFO 4000 (Informatics III) at the University of Georgia.
+Built for INFO 4000 (Informatics III) at the University of Georgia.
 
 ## How it works
 
